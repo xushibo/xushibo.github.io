@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+## 言午
 
-You can use the [editor on GitHub](https://github.com/xushibo/xushibo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+记录一些工作学习的笔记吧
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Linux 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+``` Linux
+Linux 简介
+
+# 安装
+## 发行版
+### 内核
 
 - Bulleted
 - List
