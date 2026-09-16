@@ -148,10 +148,6 @@ body {
   animation-delay: 0.32s;
 }
 
-.enter-link:nth-child(4) {
-  animation-delay: 0.48s;
-}
-
 .enter-link:hover {
   color: #ffd29c;
 }
