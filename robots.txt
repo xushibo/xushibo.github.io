@@ -1,0 +1,47 @@
+# robots.txt — www.xushibo.cn
+# 常规搜索引擎：全站允许
+
+User-agent: *
+Allow: /
+
+# AI 爬虫：显式放行（与 AI 抓取目录 /llms.txt 配套）
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# 收录入口
+Sitemap: https://www.xushibo.cn/sitemap.xml
+# AI 抓取目录
+# https://www.xushibo.cn/llms.txt

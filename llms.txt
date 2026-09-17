@@ -1,0 +1,12 @@
+# xushibo.cn
+
+> 个人站点入口，汇总自建服务与实验项目，页面以中文为主。
+
+## 页面
+
+- [首页](https://www.xushibo.cn/): 站点入口。
+
+## 说明
+
+- 内容授权：页面内容原创，转载注明出处。
+- 收录指引见 [sitemap.xml](https://www.xushibo.cn/sitemap.xml)，爬虫规则见 [robots.txt](https://www.xushibo.cn/robots.txt)。
